@@ -1,8 +1,6 @@
 ### Hi there 👋
 # P-boeleni
-twitter : @P_boeleni
-
-https://twitter.com/P_boeleni
+twitter : [@P_boeleni](https://twitter.com/P_boeleni)
 
 <!--
 **P-boeleni/P-boeleni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
