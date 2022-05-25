@@ -2,7 +2,7 @@
 twitter : [@P_boeleni](https://twitter.com/P_boeleni)
 
 ## main
-php(laravel、slim) 、 javascript(node.js、vue.js)
+php(laravel、slim) 、 javascript(node.js、vue.js、React(?))
 <!--
 [portfolio](https://github.com/P-boeleni)
 -->
