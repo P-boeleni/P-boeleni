@@ -1,7 +1,7 @@
 # P-boeleni
 twitter : [@P_boeleni](https://twitter.com/P_boeleni)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-boeleni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-boeleni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## main
