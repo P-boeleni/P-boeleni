@@ -1,6 +1,9 @@
 # P-boeleni
 twitter : [@P_boeleni](https://twitter.com/P_boeleni)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-boeleni)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## main
 php(laravel、slim) 、 javascript(node.js、vue.js、React)
 <!--
