@@ -1,6 +1,9 @@
 # P-boeleni
 twitter : [@P_boeleni](https://twitter.com/P_boeleni)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?python-lover=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-boeleni&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HamadaTomoki&theme=onedark&show_icons=ture" />
+</p>
 
 ## main
 php(laravel、slim) 、 javascript(node.js、vue.js、React)
