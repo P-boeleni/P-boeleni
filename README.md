@@ -10,7 +10,7 @@ twitter : [@P_boeleni](https://twitter.com/P_boeleni)
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## main
+## main language
 php(laravel、slim) 、 javascript(node.js、vue.js、React)
 <!--
 [portfolio](https://github.com/P-boeleni)
