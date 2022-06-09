@@ -2,7 +2,7 @@
 twitter : [@P_boeleni](https://twitter.com/P_boeleni)
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-boeleni&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HamadaTomoki&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=P-boeleni&theme=onedark&show_icons=ture" />
 </p>
 
 ## main
