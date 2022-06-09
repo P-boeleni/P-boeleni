@@ -1,4 +1,6 @@
 # P-boeleni
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?P-boeleni=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 twitter : [@P_boeleni](https://twitter.com/P_boeleni)
 
 ## main
