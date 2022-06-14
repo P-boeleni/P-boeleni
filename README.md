@@ -10,6 +10,10 @@
 
 twitter : [@P_boeleni](https://twitter.com/P_boeleni)
 
+<a href="http://twitter.com/P_boeleni">
+    <img height="20" src="https://img.shields.io/twitter/follow/P_boeleni?label=Twitter&logo=twitter&style=flat" />
+  </a>
+
 <!--
 [portfolio](https://github.com/P-boeleni)
 -->
