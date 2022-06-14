@@ -1,5 +1,9 @@
 # P-boeleni
 
+<a href="http://twitter.com/P_boeleni">
+    <img height="20" src="https://img.shields.io/twitter/follow/P_boeleni?label=Twitter&logo=twitter&style=flat" />
+ </a>
+
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-boeleni&layout=compact&count_private=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=P-boeleni&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
@@ -7,12 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=P-boeleni&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
-
-twitter : [@P_boeleni](https://twitter.com/P_boeleni)
-
-<a href="http://twitter.com/P_boeleni">
-    <img height="20" src="https://img.shields.io/twitter/follow/P_boeleni?label=Twitter&logo=twitter&style=flat" />
-  </a>
 
 <!--
 [portfolio](https://github.com/P-boeleni)
