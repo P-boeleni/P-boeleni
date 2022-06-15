@@ -12,8 +12,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=P-boeleni&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">SNS</h3>
 <p align="left">
 <a href="https://twitter.com/P_boeleni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takase" height="30" width="40" /></a>
