@@ -6,6 +6,9 @@
 <a href="https://github.com/P-boeleni">
     <img height="20" src="https://img.shields.io/github/followers/P-boeleni?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://github.com/P-boeleni/P-boeleni/">
+    <img src="https://komarev.com/ghpvc/?username=P-boeleni" alt="P-boeleni" />
+  </a>
 
 <p align="left"> 
   <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-boeleni&layout=compact&count_private=true&show_icons=true&theme=onedark" />
