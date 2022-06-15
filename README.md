@@ -4,7 +4,7 @@
   <img height="20" src="https://img.shields.io/twitter/follow/P_boeleni?label=Twitter&logo=twitter&style=flat" />
 </a>
 <a href="https://github.com/P-boeleni">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/P-boeleni?label=follow&logo=github&style=flat" />
   </a>
 
 <p align="left"> 
