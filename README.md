@@ -7,7 +7,7 @@
     <img height="20" src="https://img.shields.io/github/followers/P-boeleni?label=follow&logo=github&style=flat" />
   </a>
   <a href="https://github.com/P-boeleni/P-boeleni/">
-    <img src="https://komarev.com/ghpvc/?username=P-boeleni" alt="P-boeleni" />
+    <img src="https://komarev.com/ghpvc/?username=P-boeleni" alt="" />
   </a>
 
 <p align="left"> 
